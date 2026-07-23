@@ -1,7 +1,7 @@
 <!-- ==================== HEADER ==================== -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,30:203A43,60:2C5364,100:00C9FF&text=Varun%20Bhargav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React.js%20|%20Spring%20Boot%20|%20Java&descAlignY=58&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F2027,30:203A43,60:2C5364,100:00C9FF&text=Rangineni%20Varun%20Bhargav&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React.js%20|%20Spring%20Boot%20|%20Java&descAlignY=58&descSize=20"/>
 </p>
 
 <p align="center">
