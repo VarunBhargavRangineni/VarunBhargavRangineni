@@ -128,17 +128,17 @@ A Spring Boot-based ride-sharing platform for university students.
 # 🤝 Let's Connect
 
 <p align="center">
-  <a href="https://github.com/VarunBhargavRangineni" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-VarunBhargavRangineni-181717?style=for-the-badge&logo=github"/>
-  </a>
+<a href="https://github.com/VarunBhargavRangineni">
+<img src="https://img.shields.io/badge/GitHub-VarunBhargavRangineni-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-  <a href="https://www.linkedin.com/in/varun-bhargav-rangineni-7008b9249/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Varun%20Bhargav-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
+<a href="https://www.linkedin.com/in/varun-bhargav-rangineni-7008b9249/">
+<img src="https://img.shields.io/badge/LinkedIn-Varun%20Bhargav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-  <a href="mailto:varynbhargav24554@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
-  </a>
+<a href="mailto:varynbhargav24554@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-varynbhargav24554%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 </p>
 
 ---
