@@ -1,94 +1,132 @@
-# Hi 👋, I'm Rangineni Varun Bhargav
+<div align="center">
 
-## 🚀 Full Stack Developer
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rangineni+Varun+Bhargav;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
 
-I'm a passionate Full Stack Developer with experience in building scalable web applications using React, Spring Boot, Express.js, and MongoDB. I enjoy solving real-world problems through clean code and modern web technologies.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Rangineni%20Varun%20Bhargav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20React%20|%20Spring%20Boot%20|%20MongoDB&descAlignY=62"/>
 
----
-
-## 💻 Tech Stack
-
-### Frontend
-- React.js
-- JavaScript (ES6)
-- HTML5
-- CSS3
-- Redux Toolkit
-- React Router
-
-### Backend
-- Java
-- Spring Boot
-- Express.js
-- REST APIs
-- Microservices
-
-### Database
-- MongoDB
-
-### Tools
-- Git
-- GitHub
-- Postman
-- Swagger
-- VS Code
-- Vercel
-- cPanel
+</div>
 
 ---
 
-## 🚀 Featured Projects
+# 💫 About Me
 
-### 📚 Nation Young Authors
-Book writing and publishing platform with admin approval system.
+💻 Full Stack Developer
 
-### 🛕 Temple Bells
-Temple Management Platform with:
-- E-Darshan
-- Donations
-- Seva Booking
-- Prasadam
-- Accommodation
+🚀 Passionate about building scalable web applications
 
-### 🛒 FreshMart
-Full Stack Grocery Shopping Website
-- JWT Authentication
-- Redux Toolkit
-- Express.js
-- MongoDB
-- Dynamic Discounts
+🌱 Currently learning Docker, AWS & Microservices
 
-### 🚗 University Ride Pooling System
-Spring Boot based ride-sharing platform with:
-- Email Verification
-- Ride Booking
-- Vehicle Tracking
-- REST APIs
+🎯 Interested in Backend Engineering & System Design
+
+⚡ Love turning ideas into real-world products
 
 ---
 
-## 🌱 Currently Learning
+# 🧑‍💻 Tech Stack
 
-- Advanced Spring Boot
-- Microservices
-- Docker
-- AWS
-- System Design
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,java,spring,nodejs,express,mongodb,git,github,vscode,postman,docker,aws,vercel"/>
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VarunBhargavRangineni&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBhargavRangineni&layout=compact)
+</p>
 
 ---
 
-## 📫 Connect with Me
+# 🚀 Featured Projects
 
-- LinkedIn
-- Email
-- Portfolio
+| Project | Description |
+|---------|-------------|
+| 🛕 Temple Bells | Temple Management Platform |
+| 📚 Nation Young Authors | Online Book Publishing Platform |
+| 🛒 FreshMart | Grocery E-Commerce Website |
+| 🚗 University Ride Pooling | Spring Boot Ride Sharing Platform |
 
-⭐ Thanks for visiting my profile!
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VarunBhargavRangineni&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBhargavRangineni&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunBhargavRangineni&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunBhargavRangineni&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VarunBhargavRangineni&theme=onedark&row=2&column=4"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Coding Time
+
+<p align="center">
+
+<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=VarunBhargavRangineni&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+</div>
