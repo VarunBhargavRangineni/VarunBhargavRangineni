@@ -152,5 +152,5 @@ A Spring Boot-based ride-sharing platform for university students.
 <!-- ==================== FOOTER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:00C9FF,50:2C5364,100:0F2027"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:64B5F6,40:2196F3,75:1565C0,100:0B1F33"/>
 </p>
