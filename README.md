@@ -1,198 +1,157 @@
-# Hi 👋, I'm Rangineni Varun Bhargav
+<h1 align="center">Hi 👋, I'm Varun Bhargav</h1>
+<h3 align="center">Full Stack Developer | React.js | Spring Boot | Java | MongoDB</h3>
 
-### 🚀 Full Stack Developer | React.js | Spring Boot | MongoDB
-
-Passionate Full Stack Developer with hands-on experience building modern web applications using **React.js** for the frontend and **Java Spring Boot** for the backend. I enjoy developing scalable applications, designing RESTful APIs, and delivering clean, user-friendly solutions.
+<p align="center">
+Building scalable web applications with modern technologies 🚀
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Full Stack Developer Intern at **Visdom Waves Innovation Pvt. Ltd.**
-- 🌱 Currently exploring **Microservices**, **Cloud Deployment**, and **System Design**
-- 💻 Passionate about building scalable web applications
-- 🤝 Love collaborating on Open Source and Full Stack Projects
-- 📫 Reach me at **your-email@example.com**
-- 📍 Andhra Pradesh, India
+- 💼 Full Stack Developer passionate about creating scalable web applications.
+- 🌱 Currently learning **Microservices, System Design & Cloud Technologies**
+- 🔭 Working on **React + Spring Boot** applications.
+- 💬 Ask me about **React, Java, Spring Boot, MongoDB, REST APIs**
+- ⚡ I enjoy transforming ideas into real-world applications.
 
 ---
 
-## 🌐 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
-
----
-
-# 💻 Tech Stack
+## 🚀 Tech Stack
 
 ### Frontend
-- React.js
-- JavaScript (ES6)
-- HTML5
-- CSS3
-- React Hooks
-- React Router
-- Redux Toolkit
-- Context API
-- Axios
-- Fetch API
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,js,html,css,redux,vite" />
+</p>
 
 ### Backend
-- Java
-- Spring Boot
-- REST APIs
-- Microservices
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
 
 ### Database
-- MongoDB
 
-### Tools & Platforms
-- Git
-- GitHub
-- Postman
-- Swagger
-- VS Code
-- cPanel
-- Vercel
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+</p>
 
----
+### Tools
 
-# 💼 Experience
-
-## Full Stack Developer Intern
-**Visdom Waves Innovation Pvt. Ltd.**
-
-**December 2025 – June 2026**
-
-### Achievements
-
-- Developed and maintained **3+ Full Stack Web Applications**
-- Built and integrated **15+ REST APIs**
-- Successfully deployed **production applications** using Vercel and cPanel
-- Improved frontend performance by **30%**
-- Led a development team of **6 developers**
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📚 Nation Young Authors
-A full-stack online book writing and publishing platform.
+## 🛕 Temple Bells
 
-### Features
+A modern temple management platform providing digital services like:
 
-- User book publishing
-- Admin approval workflow
-- Real-time status updates
-- React.js + MongoDB
+- E-Darshan
+- Online Donations
+- Seva Booking
+- Prasadam Orders
+- Accommodation Booking
 
-🔗 Live Demo: https://youngauthorsapp.com
+🔗 https://temple-bells.vercel.app
 
 ---
 
-## 🛕
+## 📚 Nation Young Authors
 
-Temple Bells
+A complete book publishing platform where authors can publish books online and admins manage approvals.
 
-A complete temple management and spiritual services platform.
+**Tech Used**
 
-### Features
+- React.js
+- Spring Boot
+- MongoDB
 
-- E-Darshan
-- E-Donations
-- Seva Booking
-- Prasadam Ordering
-- Accommodation Management
-
-🔗 Live Demo: https://temple-bells.vercel.app
+🔗 https://youngauthorsapp.com
 
 ---
 
 ## 🛒 FreshMart
 
-Full Stack Grocery E-Commerce Application
+A Full Stack Grocery E-Commerce Application.
 
 ### Features
 
-- JWT Authentication
+- Secure Authentication
 - Shopping Cart
 - Product Management
-- Order Placement
-- Redux Toolkit
-- Express.js
-- MongoDB
+- Order Management
+- JWT Authentication
 
-🔗 Live Demo: https://frontend-react-wheat.vercel.app
+**Tech Stack**
+
+React • Redux Toolkit • Express.js • MongoDB
 
 ---
 
 ## 🚗 University Ride Pooling System
 
-Spring Boot based ride-sharing platform for students.
-
-### Features
+A ride-sharing platform for students built with Spring Boot.
 
 - Ride Booking
 - Email Verification
-- Vehicle Tracking
+- Vehicle Management
 - REST APIs
 - Layered Architecture
-- Real-time Ride Management
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
+<p align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
 
----
+</p>
 
-# 🎓 Education
+<p align="center">
 
-### 🎓 B.Tech in Computer Science & Engineering
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
 
-**SRM University AP**
-
-2021 – 2025
-
-CGPA: **7.44**
+</p>
 
 ---
 
-### Intermediate (Class XII)
+## 🎯 Currently Working On
 
-BIEAP Board
-
-CGPA: **7.84**
-
----
-
-### Secondary School (Class X)
-
-APBSE Board
-
-CGPA: **7.80**
+- 🚀 React.js Applications
+- ☕ Spring Boot REST APIs
+- 🌐 Full Stack Web Development
+- 📱 Responsive UI Design
+- 🔐 Authentication & Authorization
 
 ---
 
-# 🎯 Current Focus
+## 🤝 Let's Connect
 
-- Full Stack Development
-- Spring Boot Microservices
-- Cloud Deployment
-- System Design
-- Open Source Contributions
+<p align="left">
+<a href="https://github.com/YOUR_GITHUB_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-## ⚡ Fun Fact
-
-> "Code. Learn. Build. Repeat."
-
-⭐ Thanks for visiting my profile!
+<h3 align="center">
+✨ Thanks for visiting my profile! Happy Coding 🚀
+</h3>
