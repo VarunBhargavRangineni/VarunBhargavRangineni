@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Rangineni+Varun+Bhargav;Full+Stack+Developer;React+%7C+Spring+Boot+%7C+Express.js+%7C+MongoDB;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+# <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=38&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+👋, />
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Rangineni%20Varun%20Bhargav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20React%20|%20Spring%20Boot%20|%20MongoDB&descAlignY=62"/>
 
