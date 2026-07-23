@@ -1,23 +1,30 @@
-<h1 align="center">Hi 👋, I'm Varun Bhargav</h1>
-<h3 align="center">Full Stack Developer | React.js | Spring Boot | Java | MongoDB</h3>
+<!-- Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=220&section=header&text=Varun%20Bhargav&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20React%20|%20Spring%20Boot&descAlignY=58&descSize=20" />
+</p>
+
+<h3 align="center">
+Building modern web applications with clean code 🚀
+</h3>
 
 <p align="center">
-Building scalable web applications with modern technologies 🚀
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React.js+Developer;Spring+Boot+Developer;Always+Learning+New+Technologies" />
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👋 About Me
 
-- 💼 Full Stack Developer passionate about creating scalable web applications.
-- 🌱 Currently learning **Microservices, System Design & Cloud Technologies**
-- 🔭 Working on **React + Spring Boot** applications.
-- 💬 Ask me about **React, Java, Spring Boot, MongoDB, REST APIs**
-- ⚡ I enjoy transforming ideas into real-world applications.
+I'm a passionate **Full Stack Developer** who enjoys building scalable, responsive, and user-friendly web applications.
+
+- 💻 Full Stack Development
+- 🌱 Learning Microservices & Cloud
+- ⚡ Clean Code Enthusiast
+- 🚀 Love building real-world products
 
 ---
 
-## 🚀 Tech Stack
+# 🛠 Tech Stack
 
 ### Frontend
 
@@ -40,118 +47,63 @@ Building scalable web applications with modern technologies 🚀
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,vercel" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🛕 Temple Bells
-
-A modern temple management platform providing digital services like:
-
-- E-Darshan
-- Online Donations
-- Seva Booking
-- Prasadam Orders
-- Accommodation Booking
+### 🛕 Temple Bells
+A digital temple management platform featuring E-Darshan, Seva Booking, Donations, Prasadam, and Accommodation.
 
 🔗 https://temple-bells.vercel.app
 
 ---
 
-## 📚 Nation Young Authors
-
-A complete book publishing platform where authors can publish books online and admins manage approvals.
-
-**Tech Used**
-
-- React.js
-- Spring Boot
-- MongoDB
+### 📚 Nation Young Authors
+Book publishing platform for authors with an admin approval workflow.
 
 🔗 https://youngauthorsapp.com
 
 ---
 
-## 🛒 FreshMart
-
-A Full Stack Grocery E-Commerce Application.
-
-### Features
-
-- Secure Authentication
-- Shopping Cart
-- Product Management
-- Order Management
-- JWT Authentication
-
-**Tech Stack**
-
-React • Redux Toolkit • Express.js • MongoDB
+### 🛒 FreshMart
+A responsive grocery e-commerce application built with React, Redux Toolkit, Express.js, and MongoDB.
 
 ---
 
-## 🚗 University Ride Pooling System
-
-A ride-sharing platform for students built with Spring Boot.
-
-- Ride Booking
-- Email Verification
-- Vehicle Management
-- REST APIs
-- Layered Architecture
+### 🚗 University Ride Pooling
+A Spring Boot application enabling students to offer, find, and book rides securely.
 
 ---
 
-# 📈 GitHub Stats
+# 🎯 Currently Exploring
+
+- ☁ Cloud Computing
+- 🧩 Microservices
+- 🔐 Authentication & Security
+- ⚙ REST API Design
+- 🏗 System Design
+
+---
+
+# 🤝 Connect With Me
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight"/>
-
-</p>
-
----
-
-## 🎯 Currently Working On
-
-- 🚀 React.js Applications
-- ☕ Spring Boot REST APIs
-- 🌐 Full Stack Web Development
-- 📱 Responsive UI Design
-- 🔐 Authentication & Authorization
-
----
-
-## 🤝 Let's Connect
-
-<p align="left">
-<a href="https://github.com/YOUR_GITHUB_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
-
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
-
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
-
 </p>
 
 ---
 
-<h3 align="center">
-✨ Thanks for visiting my profile! Happy Coding 🚀
-</h3>
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,100:6C63FF&height=120&section=footer"/>
+</p>
