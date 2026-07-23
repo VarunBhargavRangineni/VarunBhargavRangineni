@@ -1,132 +1,198 @@
-<div align="center">
+# Hi 👋, I'm Rangineni Varun Bhargav
 
+### 🚀 Full Stack Developer | React.js | Spring Boot | MongoDB
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Rangineni%20Varun%20Bhargav&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full%20Stack%20Developer%20|%20React%20|%20Spring%20Boot%20|%20MongoDB&descAlignY=62"/>
-
-</div>
+Passionate Full Stack Developer with hands-on experience building modern web applications using **React.js** for the frontend and **Java Spring Boot** for the backend. I enjoy developing scalable applications, designing RESTful APIs, and delivering clean, user-friendly solutions.
 
 ---
 
-# 💫 About Me
+## 👨‍💻 About Me
 
-💻 Full Stack Developer
-
-🚀 Passionate about building scalable web applications
-
-🌱 Currently learning Docker, AWS & Microservices
-
-🎯 Interested in Backend Engineering & System Design
-
-⚡ Love turning ideas into real-world products
+- 💼 Full Stack Developer Intern at **Visdom Waves Innovation Pvt. Ltd.**
+- 🌱 Currently exploring **Microservices**, **Cloud Deployment**, and **System Design**
+- 💻 Passionate about building scalable web applications
+- 🤝 Love collaborating on Open Source and Full Stack Projects
+- 📫 Reach me at **your-email@example.com**
+- 📍 Andhra Pradesh, India
 
 ---
 
-# 🧑‍💻 Tech Stack
+## 🌐 Connect with Me
 
-<p align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail)](mailto:your-email@example.com)
 
-<img src="https://skillicons.dev/icons?i=react,redux,js,html,css,java,spring,nodejs,express,mongodb,git,github,vscode,postman,docker,aws,vercel"/>
+---
 
-</p>
+# 💻 Tech Stack
+
+### Frontend
+- React.js
+- JavaScript (ES6)
+- HTML5
+- CSS3
+- React Hooks
+- React Router
+- Redux Toolkit
+- Context API
+- Axios
+- Fetch API
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+- Microservices
+
+### Database
+- MongoDB
+
+### Tools & Platforms
+- Git
+- GitHub
+- Postman
+- Swagger
+- VS Code
+- cPanel
+- Vercel
+
+---
+
+# 💼 Experience
+
+## Full Stack Developer Intern
+**Visdom Waves Innovation Pvt. Ltd.**
+
+**December 2025 – June 2026**
+
+### Achievements
+
+- Developed and maintained **3+ Full Stack Web Applications**
+- Built and integrated **15+ REST APIs**
+- Successfully deployed **production applications** using Vercel and cPanel
+- Improved frontend performance by **30%**
+- Led a development team of **6 developers**
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🛕 Temple Bells | Temple Management Platform |
-| 📚 Nation Young Authors | Online Book Publishing Platform |
-| 🛒 FreshMart | Grocery E-Commerce Website |
-| 🚗 University Ride Pooling | Spring Boot Ride Sharing Platform |
+## 📚 Nation Young Authors
+A full-stack online book writing and publishing platform.
+
+### Features
+
+- User book publishing
+- Admin approval workflow
+- Real-time status updates
+- React.js + MongoDB
+
+🔗 Live Demo: https://youngauthorsapp.com
 
 ---
 
-# 📊 GitHub Analytics
+## 🛕
 
-<p align="center">
+Temple Bells
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VarunBhargavRangineni&show_icons=true&theme=tokyonight"/>
+A complete temple management and spiritual services platform.
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VarunBhargavRangineni&layout=compact&theme=tokyonight"/>
+### Features
 
-</p>
+- E-Darshan
+- E-Donations
+- Seva Booking
+- Prasadam Ordering
+- Accommodation Management
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VarunBhargavRangineni&theme=tokyonight"/>
-
-</p>
+🔗 Live Demo: https://temple-bells.vercel.app
 
 ---
 
-# 📈 Contribution Graph
+## 🛒 FreshMart
 
-<p align="center">
+Full Stack Grocery E-Commerce Application
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VarunBhargavRangineni&theme=tokyo-night"/>
+### Features
 
-</p>
+- JWT Authentication
+- Shopping Cart
+- Product Management
+- Order Placement
+- Redux Toolkit
+- Express.js
+- MongoDB
 
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=VarunBhargavRangineni&theme=onedark&row=2&column=4"/>
-
-</p>
+🔗 Live Demo: https://frontend-react-wheat.vercel.app
 
 ---
 
-# 🌐 Connect With Me
+## 🚗 University Ride Pooling System
 
-<p align="center">
+Spring Boot based ride-sharing platform for students.
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+### Features
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
-
-</p>
+- Ride Booking
+- Email Verification
+- Vehicle Tracking
+- REST APIs
+- Layered Architecture
+- Real-time Ride Management
 
 ---
 
-# 💻 Coding Time
+# 📊 GitHub Stats
 
-<p align="center">
+![](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight)
 
-<img width="420" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight)
 
-</p>
-
----
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=VarunBhargavRangineni&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight)
 
 ---
 
-<div align="center">
+# 🎓 Education
 
-### ⭐ Thanks for visiting my profile ⭐
+### 🎓 B.Tech in Computer Science & Engineering
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+**SRM University AP**
 
-</div>
+2021 – 2025
+
+CGPA: **7.44**
+
+---
+
+### Intermediate (Class XII)
+
+BIEAP Board
+
+CGPA: **7.84**
+
+---
+
+### Secondary School (Class X)
+
+APBSE Board
+
+CGPA: **7.80**
+
+---
+
+# 🎯 Current Focus
+
+- Full Stack Development
+- Spring Boot Microservices
+- Cloud Deployment
+- System Design
+- Open Source Contributions
+
+---
+
+## ⚡ Fun Fact
+
+> "Code. Learn. Build. Repeat."
+
+⭐ Thanks for visiting my profile!
