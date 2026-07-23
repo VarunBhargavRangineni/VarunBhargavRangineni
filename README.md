@@ -128,17 +128,19 @@ A Spring Boot-based ride-sharing platform for university students.
 # 🤝 Let's Connect
 
 <p align="center">
+
 <a href="https://github.com/VarunBhargavRangineni">
-<img src="https://img.shields.io/badge/GitHub-VarunBhargavRangineni-24292F?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VarunBhargavRangineni-181717?style=for-the-badge&logo=github&logoColor=white&label=GitHub&labelColor=181717&color=181717"/>
 </a>
 
 <a href="https://www.linkedin.com/in/varun-bhargav-rangineni-7008b9249/">
-<img src="https://img.shields.io/badge/LinkedIn-Varun%20Bhargav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/Varun%20Bhargav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&label=LinkedIn&labelColor=0A66C2&color=0A66C2"/>
 </a>
 
 <a href="mailto:varynbhargav24554@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-varynbhargav24554%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/varynbhargav24554%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&label=Gmail&labelColor=EA4335&color=EA4335"/>
 </a>
+
 </p>
 
 ---
